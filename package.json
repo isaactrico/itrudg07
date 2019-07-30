@@ -1,5 +1,5 @@
 {
-  "name": "itrudg-07",
+  "name": "demo-dashboard",
   "version": "0.1.0",
   "private": true,
   "engines": {
@@ -7,12 +7,12 @@
     "node": "10.15.3"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.1",
     "express-favicon": "^2.0.1",
     "path": "^0.12.7",
-    "react": "^16.8.5",
-    "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "3.0.1"
   },
   "scripts": {
     "start": "node server.js",
